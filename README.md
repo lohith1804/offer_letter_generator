@@ -17,4 +17,4 @@ pip install kivy,pip install pandas,pip install docxtpl.
 3. Running:
 
     Execute the Python file "offer_letter_generator.py"
-     
+     ![image](https://github.com/user-attachments/assets/41c4a6a1-ddfa-4361-8119-55876ceed0ff)
